@@ -1,0 +1,30 @@
+THIRD-PARTY SOFTWARE BUNDLED IN tools\
+
+1) ttarchext.exe - Telltale TTARCH files extractor/rebuilder
+   Copyright (C) Luigi Auriemma  (aluigi.org, https://aluigi.altervista.org/papers.htm#ttarchext)
+   Released under the GNU General Public License, version 2. The full license text is in LICENSE-GPL-2.0.txt
+   (also https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
+   It is included unmodified and runs as a separate program. Its source code is available from the
+   author's page above. You may replace tools\ttarchext.exe with your own download of it.
+
+2) luac.exe - Lua 5.2.4 compiler
+   Copyright (C) 1994-2015 Lua.org, PUC-Rio.  https://www.lua.org/
+   Lua is free software under the MIT license:
+
+   Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
+   associated documentation files (the "Software"), to deal in the Software without restriction,
+   including without limitation the rights to use, copy, modify, merge, publish, distribute,
+   sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is
+   furnished to do so, subject to the following conditions:
+
+   The above copyright notice and this permission notice shall be included in all copies or
+   substantial portions of the Software.
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT
+   NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+   NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+   DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT
+   OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+The Walking Dead: The Telltale Definitive Series is the property of its owners. This mod contains no
+game files; the installer builds from your own copy of the game.
